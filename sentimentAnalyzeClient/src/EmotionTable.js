@@ -17,10 +17,6 @@ class EmotionTable extends React.Component {
                     <tr>
                     <td>{mapentry[0]}</td>
                     <td>{mapentry[1]}</td>
-                    <td>{mapentry[2]}</td>
-                    <td>{mapentry[3]}</td>
-                    <td>{mapentry[4]}</td>
-                    <td>{mapentry[5]}</td>
                     </tr>
                 )
                 })
